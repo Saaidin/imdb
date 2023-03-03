@@ -1,10 +1,10 @@
 export default function Head() {
   return (
     <>
-      <title>IMDb Clobe</title>
+      <title>NextJS | IMDb Clone</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="This is the IMDb clone website" />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/favicon-1.ico" />
     </>
   )
 }
