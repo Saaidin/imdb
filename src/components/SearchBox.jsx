@@ -20,7 +20,7 @@ export default function SearchBox() {
         onChange={(e) => setSearch(e.target.value)}
         type="text"
         placeholder="Search keywords..."
-        className="w-full h-14 rounded-sm placeholder-gary-500 outline-none bg-transparent flex-1"
+        className="w-full h-14 rounded-sm placeholder-gray-500 outline-none bg-transparent flex-1"
       />
       <button
         disabled={!search}
